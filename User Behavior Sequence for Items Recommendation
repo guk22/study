@@ -1,0 +1,7 @@
+NLP vs. Recommendation
+
+과거 고객의 행동 순서 데이터는 구매 결정에 객관적인 자료를 제공함
+과거 collaborative filtering와 같은 추천 시스템에서는 이러한 자료를 통계적으로 처리함(ex.아이템 A를 구매한 고객이 아이템B를 구매할 확률)
+순차적인 데이터라는 점에서 Natural language processing(NLP)는 중요한 솔루션이 됨
+sentence는 하나의 sequence로, conversation은 sequences of sentences의 조합
+ 
